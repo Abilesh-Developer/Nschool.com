@@ -1,0 +1,106 @@
+
+.btn-pink {
+  background-color: #db1f5d;
+  border-color: #ff5c9e;
+  color: white;
+}
+.btn-pink:hover {
+  background-color: #c1447c;
+  border-color: #990f4b;
+}
+
+/* Hero Background */
+.hero-section {
+  background-color: #1e1e1e;
+  border-radius: 1rem;
+  position: relative;
+  margin:20px;
+  padding:10px;
+}
+.hero1-section{
+    background: url(Gaming\ illustration.png);
+    width: 100%;
+    height:399px;
+    background-repeat: no-repeat;
+    border: none;
+    border-radius: 30px;
+    padding-left: 30px;
+}
+.hero1-section p{
+    padding: 20px;
+    font-weight: bold;
+}
+.hero1-section span{
+    color: #e34a8c;
+}
+
+.hero-container{
+  background-color: #1e1e1e;
+  border-radius: 30px;
+  height: 820px;
+
+}
+
+.search-bar{
+   background-color:#1e1e1e;
+   border: none;
+   border-radius: 30px;
+   margin: 10px;
+   padding-right: 10px;
+}
+/* game card*/
+
+.text-pink {
+  color: #ff5c9e;
+}
+
+.game-card {
+  background-color: #1e1e1e;
+  transition: transform 0.2s;
+}
+
+.game-card:hover {
+  transform: scale(1.03);
+  box-shadow: 0 0 15px rgba(255, 92, 158, 0.3);
+}
+
+.game-card img {
+  width: 100%;
+  border-radius: 12px;
+}
+
+.text-pink {
+  color: #ff5c9e;
+}
+
+.btn-pink {
+  background-color: #ff5c9e;
+  color: white;
+  border: none;
+  border-radius: 30px;
+}
+
+.btn-pink:hover {
+  background-color: #e34a8c;
+  color: white;
+}
+
+.btn-outline-pink {
+  color: #ff5c9e;
+  border: 1px solid #ff5c9e;
+  background-color: transparent;
+}
+
+.btn-outline-pink:hover {
+  background-color: #ff5c9e;
+  color: white;
+}
+
+.text-pink {
+  color: #ff5c9e;
+}
+
+.text-pink:hover {
+  color: #e34a8c;
+}
+
