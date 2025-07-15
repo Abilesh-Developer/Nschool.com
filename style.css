@@ -25,6 +25,7 @@
     border: none;
     border-radius: 30px;
     padding-left: 30px;
+    margin-left: 100px;
 }
 .hero1-section p{
     padding: 20px;
@@ -103,4 +104,3 @@
 .text-pink:hover {
   color: #e34a8c;
 }
-
